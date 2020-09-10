@@ -16,13 +16,21 @@ Team Generator is a command line application that builds a software engineering 
 
 ## Installation
 
-To run this application first you nust run npm install after just type node app.js in the command line.
+Install it locally using npm:
+
+```npm install
+
+```
+
+Then run the application:
+
+```node app.js
+
+```
 
 ## Usage
 
 This application assist the user in creating a software engineering team, when the user has completed building the team, the application will create an HTML file with the rostr. The user can use this to have quick access to emails and GitHub profiles.
-
-## Screenshots
 
 How it works:
 
@@ -42,7 +50,11 @@ No contributing guidelines
 
 ## Test
 
-used Jest to test this application npm run test
+used Jest to test this application
+
+```npm run test
+
+```
 
 ## Questions
 

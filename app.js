@@ -13,7 +13,6 @@ const { type } = require("os");
 
 const employees = [];
 
-
 var questions = [
   {
     type: "input",
